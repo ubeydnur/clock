@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Cinzel', serif;
+    color: #ffb6b9;
+    font-size: 50px;
+}
+
+body {
+    background-image: url(/img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70% 70%;
+    z-index: -1;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#date {
+    margin-top: 30px;
+}
