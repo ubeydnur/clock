@@ -1,3 +1,1 @@
-# clock
-
-![gif](img/readme.gif)
+[Click to see](https://ubeydnur.github.io/clock/)
